@@ -1,0 +1,2 @@
+export const sidebarList = ['Home', 'Shorts' , 'Subscription' , 'Trendin' , 'Music', 'Movie', 'Live','Gaming']
+export const TagList = ['All','Music','Computer Programming', 'Live' ,'Bollywood Music', 'Computer Keyboard','Game shoes', 'Comedy']
